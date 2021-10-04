@@ -9,6 +9,8 @@ for ($i = 0; $i < $count; $i++) {
             $myList[$j + 1] = $temp;
         }
     }
+
+
 }
 for ($i=0; $i<$count; $i++){
     echo $myList[$i]." ";
